@@ -21,7 +21,7 @@
         "irc": "irc://irc.freenode.net/phpunit"
     },
     "require": {
-        "php": "^5.6 || ^7.0",
+        "php": "^5.6 || ^7.0 || ^8.0",
         "ext-dom": "*",
         "ext-xmlwriter": "*",
         "phpunit/php-file-iterator": "^1.3",
